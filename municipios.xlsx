@@ -1,6 +1,7 @@
-Uso da fórmula: 
-=ÍNDICE(sp_municipal!B:B;CORRESP(MÁXIMO(sp_municipal!K:K);sp_municipal!K:K;0);1)
+# Uso da fórmula: 
+# =ÍNDICE(sp_municipal!B:B;CORRESP(MÁXIMO(sp_municipal!K:K);sp_municipal!K:K;0);1)
 # Fórmula usada para buscar o valor na coluna B da planilha "sp_municipal" com base no maior valor da coluna K:
 # 1. MÁXIMO(sp_municipal!K:K) encontra o maior valor na coluna K da planilha "sp_municipal".
 # 2. CORRESP(MÁXIMO(sp_municipal!K:K), sp_municipal!K:K, 0) retorna a posição (linha) do maior valor encontrado na coluna K.
 # 3. ÍNDICE(sp_municipal!B:B, ...) usa essa posição para retornar o valor correspondente na coluna B.
+
