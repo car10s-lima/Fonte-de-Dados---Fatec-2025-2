@@ -45,4 +45,4 @@ Análise de dados disponibilizados na plataforma Comex Stat refrente ao valor FO
 <img width="919" height="535" alt="image" src="https://github.com/user-attachments/assets/b013dfb4-30e3-401a-8486-7a40264babee" />
 
 
-Dados disponibilizados na plataforma Kaggle referente à venda de sorvetes em uma determinada empresa. Tratados em planilhas utilizando o Excel e Python utilizando o Google Collab. Relacionando venda com temperatura para criar um gráfico de regressão linear. 
+Dados disponibilizados na plataforma Kaggle referente à venda de sorvetes em uma determinada empresa. Tratados em planilhas utilizando o Excel e, posteriormente, tratados em Python utilizando o Google Collab. Relacionando venda com temperatura para criar um gráfico de regressão linear. 
