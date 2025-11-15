@@ -2,7 +2,9 @@
 
 ## Atividade 1 : Apresentação em equipe
 
-<img width="1586" height="887" alt="image" src="https://github.com/user-attachments/assets/abe5cfd5-66a0-4e16-be5d-a3a1acad2c08" />
+<img width="1015" height="568" alt="image" src="https://github.com/user-attachments/assets/b18335b7-cd60-44c4-86b4-7a8dd698952d" />
+
+Apresentação de trabalho em grupo. Elaboração de mapa mental e apresentação de segmento de indústria que cada membro do grupo atua. 
 
 ## Atividade 2 : Análise exploratória de dados abertos 
 
