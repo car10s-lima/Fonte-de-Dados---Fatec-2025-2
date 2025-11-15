@@ -30,11 +30,13 @@ Análise de dados em CSV utilizando o excel e painéis no Power BI para visualiz
 
 <img width="1919" height="974" alt="image" src="https://github.com/user-attachments/assets/bfb4717c-144b-47af-99d3-47143828714a" />
 <img width="826" height="422" alt="image" src="https://github.com/user-attachments/assets/f78143c6-c6e3-4ab4-80bc-6adf28829e07" />
+
 Elaboração de gráficos interativos para análise visual. Utilizando dados disponibilizados no Comex Statem arquivos CSV referentes à exportação em 2025.
 
 ## Atividade 5: Dados do COMEX STAT tratados e apresentados em dashboard para visualização de movimentação FOB regional
 
 <img width="1312" height="704" alt="image" src="https://github.com/user-attachments/assets/64b930c0-9332-4dd2-8795-a0d2fb54e55d" />
+
 Análise de dados disponibilizados na plataforma Comex Stat refrente ao valor FOB para exportação, com filtros para visualização por região. Vizualização da bandeira do estado de maior valor FOB e cartão com valor de exportação para o estado ou região, de acordo com o filtro selecionado. 
 
 ## Atividade 6: Dados tratados em Python (Google Collab) para elaboração de gráfico de regressão linear
