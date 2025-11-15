@@ -32,10 +32,15 @@ Elaboração de gráficos interativos para análise visual. Utilizando dados dis
 
 ## Atividade 5: Dados do COMEX STAT tratados e apresentados em dashboard para visualização de movimentação FOB regional
 
-
+<img width="1312" height="704" alt="image" src="https://github.com/user-attachments/assets/64b930c0-9332-4dd2-8795-a0d2fb54e55d" />
+Análise de dados disponibilizados na plataforma Comex Stat refrente ao valor FOB para exportação, com filtros para visualização por região. Vizualização da bandeira do estado de maior valor FOB e cartão com valor de exportação para o estado ou região, de acordo com o filtro selecionado. 
 
 ## Atividade 6: Dados tratados em Python (Google Collab) para elaboração de gráfico de regressão linear
 
-<img width="306" height="223" alt="image" src="https://github.com/user-attachments/assets/b8557843-8a3e-4e6c-8377-750e32a48943" />
+<img width="658" height="464" alt="image" src="https://github.com/user-attachments/assets/f94d6d81-a9b7-4a90-9541-0288afcbedb9" />
+
+
+<img width="919" height="535" alt="image" src="https://github.com/user-attachments/assets/b013dfb4-30e3-401a-8486-7a40264babee" />
+
 
 Dados disponibilizados na plataforma Kaggle referente à venda de sorvetes em uma determinada empresa. Tratados em planilhas utilizando o Excel e Python utilizando o Google Collab. Relacionando venda com temperatura para criar um gráfico de regressão linear. 
